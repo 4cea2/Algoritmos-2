@@ -22,7 +22,7 @@ Todas las estructuras son genéricas, permitiendo el almacenamiento de cualquier
 
 - **TP2**: Desarrollo de un sistema para gestionar la entrada y salida de aviones en un aeropuerto. El sistema permite ordenar, filtrar, analizar y obtener información sobre los vuelos. Emplea los TDA implementados, adaptándolos a las complejidades y requisitos específicos.
 
-- **TP3**: Programa para analizar las conexiones que hay entre aeropuertos. Implementa un **TDA Grafo** para aplicar algoritmos relacionados con caminos y tendidos minimos, centralidad y de ordenamientos topologicos.
+- **TP3**: Programa para analizar las conexiones que hay entre aeropuertos en funcion de grafos. Implementa un **TDA Grafo** para aplicar algoritmos relacionados con caminos y tendidos minimos, centralidad y de ordenamientos topologicos.
 
 
 ---
